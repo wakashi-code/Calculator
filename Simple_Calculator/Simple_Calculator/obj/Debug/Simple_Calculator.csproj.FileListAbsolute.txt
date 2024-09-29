@@ -1,0 +1,10 @@
+C:\Users\wakashi\source\repos\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.exe.config
+C:\Users\wakashi\source\repos\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.exe
+C:\Users\wakashi\source\repos\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.pdb
+C:\Users\wakashi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.AssemblyReference.cache
+C:\Users\wakashi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\wakashi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.GenerateResource.cache
+C:\Users\wakashi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\wakashi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.exe
+C:\Users\wakashi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.pdb
+C:\Users\wakashi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.CalculatorForm.resources
