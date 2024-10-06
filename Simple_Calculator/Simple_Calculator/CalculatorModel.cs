@@ -29,7 +29,7 @@ namespace Simple_Calculator
 
         public void InputCurrentOperation()
         {
-           // _currentOperation
+          // _currentOperation
         }
 
         public void InputBufferNumber()

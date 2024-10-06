@@ -47,8 +47,8 @@
             this.Add_button = new System.Windows.Forms.Button();
             this.Calculate_button = new System.Windows.Forms.Button();
             this.Comma_button = new System.Windows.Forms.Button();
-            this.NumberInputField_label = new System.Windows.Forms.Label();
             this.InputField_textBox = new System.Windows.Forms.TextBox();
+            this.ChangeSign_button = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // One_button
@@ -192,6 +192,7 @@
             this.Percent_button.TabIndex = 12;
             this.Percent_button.Text = "%";
             this.Percent_button.UseVisualStyleBackColor = false;
+            this.Percent_button.Click += new System.EventHandler(this.Percent_button_Click);
             // 
             // Division_button
             // 
@@ -202,6 +203,7 @@
             this.Division_button.TabIndex = 13;
             this.Division_button.Text = "/";
             this.Division_button.UseVisualStyleBackColor = false;
+            this.Division_button.Click += new System.EventHandler(this.Division_button_Click);
             // 
             // Multiple_button
             // 
@@ -212,6 +214,7 @@
             this.Multiple_button.TabIndex = 14;
             this.Multiple_button.Text = "*";
             this.Multiple_button.UseVisualStyleBackColor = false;
+            this.Multiple_button.Click += new System.EventHandler(this.Multiple_button_Click);
             // 
             // Substract_button
             // 
@@ -222,6 +225,7 @@
             this.Substract_button.TabIndex = 15;
             this.Substract_button.Text = "-";
             this.Substract_button.UseVisualStyleBackColor = false;
+            this.Substract_button.Click += new System.EventHandler(this.Substract_button_Click);
             // 
             // Add_button
             // 
@@ -232,6 +236,7 @@
             this.Add_button.TabIndex = 16;
             this.Add_button.Text = "+";
             this.Add_button.UseVisualStyleBackColor = false;
+            this.Add_button.Click += new System.EventHandler(this.Add_button_Click);
             // 
             // Calculate_button
             // 
@@ -242,6 +247,7 @@
             this.Calculate_button.TabIndex = 17;
             this.Calculate_button.Text = "=";
             this.Calculate_button.UseVisualStyleBackColor = false;
+            this.Calculate_button.Click += new System.EventHandler(this.Calculate_button_Click);
             // 
             // Comma_button
             // 
@@ -254,17 +260,6 @@
             this.Comma_button.UseVisualStyleBackColor = false;
             this.Comma_button.Click += new System.EventHandler(this.Comma_button_Click);
             // 
-            // NumberInputField_label
-            // 
-            this.NumberInputField_label.AutoSize = true;
-            this.NumberInputField_label.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.NumberInputField_label.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.NumberInputField_label.Location = new System.Drawing.Point(33, 37);
-            this.NumberInputField_label.Name = "NumberInputField_label";
-            this.NumberInputField_label.Size = new System.Drawing.Size(101, 39);
-            this.NumberInputField_label.TabIndex = 19;
-            this.NumberInputField_label.Text = "Label";
-            // 
             // InputField_textBox
             // 
             this.InputField_textBox.HideSelection = false;
@@ -276,13 +271,24 @@
             this.InputField_textBox.Size = new System.Drawing.Size(405, 52);
             this.InputField_textBox.TabIndex = 20;
             // 
+            // ChangeSign_button
+            // 
+            this.ChangeSign_button.BackColor = System.Drawing.Color.Turquoise;
+            this.ChangeSign_button.Location = new System.Drawing.Point(0, 431);
+            this.ChangeSign_button.Name = "ChangeSign_button";
+            this.ChangeSign_button.Size = new System.Drawing.Size(103, 50);
+            this.ChangeSign_button.TabIndex = 21;
+            this.ChangeSign_button.Text = "+/-";
+            this.ChangeSign_button.UseVisualStyleBackColor = false;
+            this.ChangeSign_button.Click += new System.EventHandler(this.ChangeSign_button_Click);
+            // 
             // CalculatorForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(406, 489);
+            this.Controls.Add(this.ChangeSign_button);
             this.Controls.Add(this.InputField_textBox);
-            this.Controls.Add(this.NumberInputField_label);
             this.Controls.Add(this.Comma_button);
             this.Controls.Add(this.Calculate_button);
             this.Controls.Add(this.Add_button);
@@ -305,7 +311,6 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "CalculatorForm";
             this.Text = "Калькулятор";
-            this.Load += new System.EventHandler(this.CalculatorForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -332,8 +337,8 @@
         private System.Windows.Forms.Button Add_button;
         private System.Windows.Forms.Button Calculate_button;
         private System.Windows.Forms.Button Comma_button;
-        private System.Windows.Forms.Label NumberInputField_label;
         private System.Windows.Forms.TextBox InputField_textBox;
+        private System.Windows.Forms.Button ChangeSign_button;
     }
 }
 
