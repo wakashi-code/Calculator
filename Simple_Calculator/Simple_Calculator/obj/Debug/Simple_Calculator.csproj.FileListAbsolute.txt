@@ -8,3 +8,13 @@ C:\Users\wakashi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\Simp
 C:\Users\wakashi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.exe
 C:\Users\wakashi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.pdb
 C:\Users\wakashi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.CalculatorForm.resources
+R:\TheOrderOfExpulsion\Calculator\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.AssemblyReference.cache
+R:\TheOrderOfExpulsion\Calculator\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.CalculatorForm.resources
+R:\TheOrderOfExpulsion\Calculator\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+R:\TheOrderOfExpulsion\Calculator\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.GenerateResource.cache
+R:\TheOrderOfExpulsion\Calculator\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.CoreCompileInputs.cache
+R:\TheOrderOfExpulsion\Calculator\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.exe
+R:\TheOrderOfExpulsion\Calculator\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.pdb
+R:\TheOrderOfExpulsion\Calculator\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.exe.config
+R:\TheOrderOfExpulsion\Calculator\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.exe
+R:\TheOrderOfExpulsion\Calculator\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.pdb

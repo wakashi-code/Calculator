@@ -12,29 +12,43 @@ namespace Simple_Calculator
         string _bufferNumber;
         string _currentOperation;
 
+        double _dCurrentNumber;
+        double _dBufferNumber;
+
+        private CalculatorForm _form;
+
         public string CurrentNumber => _currentNumber;
         public string BufferNumber => _bufferNumber;
         public string Operation => _currentOperation;
 
 
-        public void InputCurrentNumber(string currentNumber)
+        public void InputCurrentNumber()
         {
-            currentNumber = _currentNumber;
+            _dCurrentNumber = int.Parse(_currentNumber);
         }
 
-        public void InputCurrentOperation(string currentOperation)
+        public void InputCurrentOperation()
         {
-            currentOperation = _currentOperation;
+           // _currentOperation
         }
 
-        public void InputBufferNumber(string bufferNumber)
+        public void InputBufferNumber()
         {
-            _bufferNumber = bufferNumber;
+            _dBufferNumber = int.Parse(_bufferNumber);
         }
 
-        public void ClearAllInput() { }
+        public void ClearAllInput()
+        {
+            _currentNumber = null;
+            _bufferNumber = null;
+            _currentOperation = null;
+            
+        }
 
-        public void ClearOneSymbol() { }
+        public void ClearOneSymbol()
+        {
+
+        }
 
         public void InputComma() { }
 

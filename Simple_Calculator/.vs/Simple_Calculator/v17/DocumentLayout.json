@@ -1,28 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wakashi\\source\\repos\\Simple_Calculator\\",
+  "WorkspaceRootPath": "R:\\TheOrderOfExpulsion\\Calculator\\Simple_Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89324AF5-171B-4331-9D52-503CCFEF6C33}|Simple_Calculator\\Simple_Calculator.csproj|c:\\users\\wakashi\\source\\repos\\simple_calculator\\simple_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89324AF5-171B-4331-9D52-503CCFEF6C33}|Simple_Calculator\\Simple_Calculator.csproj|r:\\theorderofexpulsion\\calculator\\simple_calculator\\simple_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89324AF5-171B-4331-9D52-503CCFEF6C33}|Simple_Calculator\\Simple_Calculator.csproj|solutionrelative:simple_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89324AF5-171B-4331-9D52-503CCFEF6C33}|Simple_Calculator\\Simple_Calculator.csproj|C:\\Users\\wakashi\\source\\repos\\Simple_Calculator\\simple_calculator\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89324AF5-171B-4331-9D52-503CCFEF6C33}|Simple_Calculator\\Simple_Calculator.csproj|solutionrelative:simple_calculator\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89324AF5-171B-4331-9D52-503CCFEF6C33}|Simple_Calculator\\Simple_Calculator.csproj|R:\\TheOrderOfExpulsion\\Calculator\\Simple_Calculator\\simple_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89324AF5-171B-4331-9D52-503CCFEF6C33}|Simple_Calculator\\Simple_Calculator.csproj|solutionrelative:simple_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89324AF5-171B-4331-9D52-503CCFEF6C33}|Simple_Calculator\\Simple_Calculator.csproj|C:\\Users\\wakashi\\source\\repos\\Simple_Calculator\\simple_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{89324AF5-171B-4331-9D52-503CCFEF6C33}|Simple_Calculator\\Simple_Calculator.csproj|solutionrelative:simple_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{89324AF5-171B-4331-9D52-503CCFEF6C33}|Simple_Calculator\\Simple_Calculator.csproj|R:\\TheOrderOfExpulsion\\Calculator\\Simple_Calculator\\simple_calculator\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89324AF5-171B-4331-9D52-503CCFEF6C33}|Simple_Calculator\\Simple_Calculator.csproj|solutionrelative:simple_calculator\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,42 +31,50 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\wakashi\\source\\repos\\Simple_Calculator\\Simple_Calculator\\Form1.cs",
+              "DocumentMoniker": "R:\\TheOrderOfExpulsion\\Calculator\\Simple_Calculator\\Simple_Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "Simple_Calculator\\Form1.cs",
-              "ToolTip": "C:\\Users\\wakashi\\source\\repos\\Simple_Calculator\\Simple_Calculator\\Form1.cs",
+              "ToolTip": "R:\\TheOrderOfExpulsion\\Calculator\\Simple_Calculator\\Simple_Calculator\\Form1.cs",
               "RelativeToolTip": "Simple_Calculator\\Form1.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAMwB8AAAAVAAAAAAAAAA==",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAEwFwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T09:54:34.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CalculatorModel.cs",
-              "DocumentMoniker": "C:\\Users\\wakashi\\source\\repos\\Simple_Calculator\\Simple_Calculator\\CalculatorModel.cs",
+              "DocumentMoniker": "R:\\TheOrderOfExpulsion\\Calculator\\Simple_Calculator\\Simple_Calculator\\CalculatorModel.cs",
               "RelativeDocumentMoniker": "Simple_Calculator\\CalculatorModel.cs",
-              "ToolTip": "C:\\Users\\wakashi\\source\\repos\\Simple_Calculator\\Simple_Calculator\\CalculatorModel.cs",
+              "ToolTip": "R:\\TheOrderOfExpulsion\\Calculator\\Simple_Calculator\\Simple_Calculator\\CalculatorModel.cs",
               "RelativeToolTip": "Simple_Calculator\\CalculatorModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T09:38:24.217Z"
+              "WhenOpened": "2024-09-23T09:38:24.217Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\wakashi\\source\\repos\\Simple_Calculator\\Simple_Calculator\\Form1.cs",
+              "DocumentMoniker": "R:\\TheOrderOfExpulsion\\Calculator\\Simple_Calculator\\Simple_Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "Simple_Calculator\\Form1.cs",
-              "ToolTip": "C:\\Users\\wakashi\\source\\repos\\Simple_Calculator\\Simple_Calculator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "R:\\TheOrderOfExpulsion\\Calculator\\Simple_Calculator\\Simple_Calculator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Simple_Calculator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T09:32:13.06Z"
+              "WhenOpened": "2024-09-23T09:32:13.06Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
         }
